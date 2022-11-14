@@ -1,3 +1,6 @@
-# LED_PCB_THT
+# A Simple LED PCB
 
-# A test of footprints and EasyEDA Designer
+## Reasons for creation
+
+- To test footprints and EasyEDA Designer
+- To test the PCB manufacturer's quality and performance
